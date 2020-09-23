@@ -1,0 +1,34 @@
+.bg-custom{
+    background-color: #1bb99a;
+}
+.padding-4{
+    padding: 2rem
+}
+.table thead th{
+    font-size: 12px;
+}
+.table tbody img{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.table tbody td{
+    font-size: 12px;
+}
+.map-toggle img{
+    height: 30px;
+}
+.map-toggle.deaths{
+    background-color: #ffbfbf;
+    border-color: #ffbfbf;
+}
+.map-toggle.recovered{
+    background-color: #bfffca;
+    border-color: #bfffca;
+}
+.map-toggle.cases{
+    background-color: #bfe1ff;
+    border-color: #bfe1ff;
+}
+.pointer{
+    cursor: pointer;
+}
